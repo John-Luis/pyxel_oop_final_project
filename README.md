@@ -1,5 +1,7 @@
 # Vortexion
 
+GITHUB LINK INSPIRED: https://github.com/kitao/pyxel
+
 ## Introduction
 Vortexion is a MSX/SG-1000 inspired shoot-em-up written in Python and uses the Pyxel game engine.
 
